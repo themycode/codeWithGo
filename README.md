@@ -2,7 +2,8 @@
 
 初始化项目module: go mod init goproject
 
-添加依赖项: go mod edit -require github.com/labstack/echo
+<!-- 重要 -->
+#### 添加依赖项: go mod edit -require github.com/labstack/echo
 
 拉取依赖项：go get ,然后go run就可以执行
 
