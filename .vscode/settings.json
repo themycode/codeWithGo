@@ -1,5 +1,0 @@
-{
-	"go.inferGopath": false,
-	"python.formatting.provider": "autopep8",
-	"python.pythonPath": "/Users/echo/Public/venv/bin/python"
-}
